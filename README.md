@@ -42,6 +42,10 @@ pkg update -y
 ```
 
 ```
+pkg install python-pip
+```
+
+```
 pkg upgrade -y
 ```
 
@@ -120,3 +124,4 @@ Developer **kisī misuse ka zimmedar nahi hoga**.
 
 Developed by **RAJA BAHi**  
 2025 © All Rights Reserved
+
